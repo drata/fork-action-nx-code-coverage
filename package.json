@@ -37,7 +37,7 @@
     "@jest/globals": "^29.7.0",
     "@types/istanbul": "^0.4.30",
     "@types/istanbul-reports": "^3.0.1",
-    "@types/jest": "^29.5.5",
+    "@types/jest": "^29.5.12",
     "@types/node": "^20.6.3",
     "@typescript-eslint/eslint-plugin": "^5.54.1",
     "@typescript-eslint/parser": "^5.54.1",
